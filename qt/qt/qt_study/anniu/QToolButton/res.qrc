@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mushroom_life.png</file>
+        <file>mario.png</file>
+    </qresource>
+</RCC>

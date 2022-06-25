@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="11">paper_bowser.png</file>
+    </qresource>
+</RCC>

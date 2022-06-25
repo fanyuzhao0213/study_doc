@@ -1,0 +1,30 @@
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.c
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Inc/stm32l1xx_hal_conf.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Inc/mxconstants.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rcc.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_def.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l1xx.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l151xba.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/CMSIS/Include/core_cm3.h
+standby-rtc\stm32l1xx_hal_pwr.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/system_stm32l1xx.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+standby-rtc\stm32l1xx_hal_pwr.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rcc_ex.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_gpio.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_gpio_ex.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_dma.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_dma_ex.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_cortex.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_flash.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_flash_ex.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_flash_ramfunc.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_pwr.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_pwr_ex.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rtc.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rtc_ex.h
+standby-rtc\stm32l1xx_hal_pwr.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_uart.h

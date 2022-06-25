@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/mario.png</file>
+        <file>img/mushroom_life.png</file>
+        <file>img/11.png</file>
+        <file>img/22.png</file>
+        <file alias="reddog">img/33.png</file>
+    </qresource>
+</RCC>

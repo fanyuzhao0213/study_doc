@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mario.png</file>
+        <file>mushroom_super.png</file>
+        <file>paper_bowser.png</file>
+        <file>paper_lakitu.png</file>
+        <file>question_block.png</file>
+        <file>question_coin.png</file>
+    </qresource>
+</RCC>

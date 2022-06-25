@@ -1,0 +1,32 @@
+stopmode-rtc\usart.o: ../Src/usart.c
+stopmode-rtc\usart.o: ../Inc/usart.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal.h
+stopmode-rtc\usart.o: ../Inc/stm32l1xx_hal_conf.h
+stopmode-rtc\usart.o: ../Inc/mxconstants.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rcc.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_def.h
+stopmode-rtc\usart.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l1xx.h
+stopmode-rtc\usart.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l151xba.h
+stopmode-rtc\usart.o: ../Drivers/CMSIS/Include/core_cm3.h
+stopmode-rtc\usart.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stopmode-rtc\usart.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+stopmode-rtc\usart.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+stopmode-rtc\usart.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/system_stm32l1xx.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+stopmode-rtc\usart.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rcc_ex.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_gpio.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_gpio_ex.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_dma.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_dma_ex.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_cortex.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_flash.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_flash_ex.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_flash_ramfunc.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_pwr.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_pwr_ex.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rtc.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rtc_ex.h
+stopmode-rtc\usart.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_uart.h
+stopmode-rtc\usart.o: ../Inc/gpio.h

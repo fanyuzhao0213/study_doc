@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.27.1.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: 1 1, 1, LIC=TA39H-WK3RI-SG47K-ZJE58-09QMK-NDGB4
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.27.1.0
+Toolchain Path:  D:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.27.1.0
+Dialog DLL:      DCM.DLL V1.17.2.0
+Target DLL:      Segger\JL2CM3.dll V2.99.35.0
+Dialog DLL:      TCM.DLL V1.36.1.0
+ 
+<h2>Project:</h2>
+C:\Users\Tokin_hardware\Desktop\stm32l151c8t6¿ª·¢°å20170617v1.0\GPIOÓëTIM\Project\gpio.uvproj
+Project File Date:  04/21/2022
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'gpio'
+compiling main.c...
+..\Driver\system\sys\sys.h(6): warning:  #47-D: incompatible redefinition of macro "NVIC_VectTab_RAM"  (declared at line 107 of "..\STM32L1xx_StdPeriph_Driver\inc\misc.h")
+  #define NVIC_VectTab_RAM             ((u32)0x20000000)
+..\Driver\system\sys\sys.h(7): warning:  #47-D: incompatible redefinition of macro "NVIC_VectTab_FLASH"  (declared at line 108 of "..\STM32L1xx_StdPeriph_Driver\inc\misc.h")
+  #define NVIC_VectTab_FLASH           ((u32)0x08000000)
+..\main\main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=6164 RO-data=276 RW-data=64 ZI-data=1632  
+"..\Output\Ethernet.axf" - 0 Error(s), 2 Warning(s).
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>
